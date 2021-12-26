@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "664632593880",
+    "project_id": "dragon-chat-e1449",
+    "storage_bucket": "dragon-chat-e1449.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664632593880:android:bad3641eb8508e9bea36ad",
+        "android_client_info": {
+          "package_name": "com.vld7wn.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664632593880-1lgp8eqs7avjh40f683nqjksdp5irqvg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqmVmL0zS78vY5sHHr09fp0k2eAxzGeuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664632593880-1lgp8eqs7avjh40f683nqjksdp5irqvg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
